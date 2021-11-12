@@ -1,0 +1,66 @@
+
+h1{
+    text-align: center;
+    font-family: "Times New Roman";
+
+}
+
+
+
+   img{
+
+    border-style:solid;
+    width: 170px;
+    height: 230px;
+   
+   }
+
+   th, td 
+   {
+    padding: 9px;
+   }
+
+   tr:nth-of-type(odd) 
+ {
+    background-color:lightslategrey;
+ }
+
+  
+
+     body 
+    {
+ 
+      font-size: 13px;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+ 
+
+   .stil
+   {
+
+      color: rgb(29, 201, 23);
+
+   }
+  
+   .düzen{
+
+       color: red;
+
+   }
+   .stil2{
+      
+      color: darkgoldenrod;
+   }
+
+  
+
+  a:link{color:#10caeb;}
+
+
+  a:hover{color:#d8e1e7;}
+
+
+  a:visited{color:#114575;}
+
+
+  a:active{color:red;}
